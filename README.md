@@ -1,3 +1,3 @@
 # Technical-Interview-Coding-Skills
 
-Practice Python and Sql Coding Skills Review
+Practice of Python and Sql Coding Skills
